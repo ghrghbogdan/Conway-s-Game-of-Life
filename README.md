@@ -1,4 +1,4 @@
-# **Conway’s Game of Life & Symmetric Encryption**  
+# **Conway’s Game of Life**  
 
 <img src="./img/metapixel.gif" width="75%"/>
 
